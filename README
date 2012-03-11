@@ -1,6 +1,7 @@
 Your first XML pipeline (publishing)
 http://http://cocoon.apache.org/2.2/1290_1_1.html
 weizhao
-import from git remote into local git repository
+import from git remote into local git repository 
+	(delete the project in eclipse)
 maven import existing projects from local repository
 
